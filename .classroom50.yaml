@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "2026-p2b"
+assignment: "2026-p2b-web-bootstrap-responsive"
+owner:
+  username: "MichalStehlik"
+  id: 36696240
+  accepted_at: "2026-09-10T09:40:49Z"
+source:
+  owner: "pslib-cz"
+  owner_id: 54772108
+  repo: "template-html-bootstrap-responsivity"
+  branch: "master"
